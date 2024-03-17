@@ -1,10 +1,10 @@
-<h2>Botium Toys: Scope, goals, and risk assessment report</h2>  
+## Botium Toys: Scope, goals, and risk assessment report
 
-<h3>Scope and goals of the audit</h3><be>
-Scope: The scope of this audit is defined as the entire security program at Botium Toys. This includes their assets like employee equipment and devices, their internal network, and their systems. You will need to review the assets Botium Toys has and the controls and compliance practices they have in place.
+### Scope and goals of the audit <br>
+**Scope:** The scope of this audit is defined as the entire security program at Botium Toys. This includes their assets like employee equipment and devices, their internal network, and their systems. You will need to review the assets Botium Toys has and the controls and compliance practices they have in place.
   <br>
   <br>
-Goals: Assess existing assets and complete the controls and compliance checklist to determine which controls and compliance best practices that need to be implemented to  improve Botium Toys’ security posture.
+**Goals:** Assess existing assets and complete the controls and compliance checklist to determine which controls and compliance best practices that need to be implemented to  improve Botium Toys’ security posture.
 <br>
 <h3>Current assets</h3>
 Assets managed by the IT Department include: <br>
