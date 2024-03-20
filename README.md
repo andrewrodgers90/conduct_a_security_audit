@@ -6,7 +6,7 @@ Audits help ensure that security checks are made, to monitor for threats, risks,
 
 ## Task
 
-The task is to use the supporting documents, the <a href="https://github.com/andrewrodgers90/conduct_a_security_audit/blob/main/Botium_Toys_Scope_goals_and_risk_assessment_report.md">Botium Toys: Scope, goals, and risk assessment report</a> and the <a href="https://github.com/andrewrodgers90/conduct_a_security_audit/blob/main/control_categories.md">Control Categories</a> to complete the <a href="https://github.com/andrewrodgers90/conduct_a_security_audit/blob/main/controls_and_compliance_checklist.md">controls and compliance checklist</a>.
+The purpose of this exercise is complete a security audit on a fictional company.
 
 ## Scenario
 
