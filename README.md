@@ -8,7 +8,7 @@ Audits help ensure that security checks are made, to monitor for threats, risks,
 
 The task is to use the supporting documents, the <a href="https://github.com/andrewrodgers90/conduct_a_security_audit/blob/main/Botium_Toys_Scope_goals_and_risk_assessment_report.md">Botium Toys: Scope, goals, and risk assessment report</a> and the <a href="https://github.com/andrewrodgers90/conduct_a_security_audit/blob/main/control_categories.md">Control Categories</a> to complete the <a href="https://github.com/andrewrodgers90/conduct_a_security_audit/blob/main/controls_and_compliance_checklist.md">controls and compliance checklist</a>.
 
-<h2>Scenario</h2>
+## Scenario
 
 Review the following scenario. Then complete the step-by-step instructions.
 
@@ -22,12 +22,12 @@ The IT manager starts by implementing the National Institute of Standards and Te
 
 Your task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist. 
 
-<h3>Step 1: Access supporting materials</h3>
+### Step 1: Access supporting materials
 
 + <a href="https://github.com/andrewrodgers90/conduct_a_security_audit/blob/main/Botium_Toys_Scope_goals_and_risk_assessment_report.md">Botium Toys: Scope, goals, and risk assessment report</a>
 + <a href="https://github.com/andrewrodgers90/conduct_a_security_audit/blob/main/control_categories.md">Control Categories</a>
 
-<h3>Step 2: Conduct the audit: Controls and compliance checklist</h3>
+### Step 2: Conduct the audit: Controls and compliance checklist
 
 Conduct the next step of the security audit by completing the <a href="https://github.com/andrewrodgers90/conduct_a_security_audit/blob/main/controls_and_compliance_checklist.md">controls and compliance checklist</a>. 
 
